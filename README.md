@@ -2,6 +2,11 @@
 
 # 7-DevOps-Project Over 7 Days Upskilling 🚀
 
+
+* 🔗 **Documentation:**
+
+  * [Documentation](https://mega.nz/file/WzJy1ZLD#2pJ6mQiEElLUnKCu-flPkcffPyC5ak58fCLaydw4Kjw) – Compiled Documentations from 7-Days-DevOps Project Series.
+
 In this 7-day AWS DevOps challenge, I built a full end-to-end CI/CD pipeline for a Java web application. Each day focused on a different step: from setting up the web app on EC2 to automating builds and deployments. Along the way I gained hands-on experience with AWS services (EC2, S3, IAM, CodeBuild, CodeDeploy, CodePipeline, CodeArtifact, etc.) and tools like VS Code, Git/GitHub, and Maven. The following sections walk through each day’s **steps performed** and **key learnings**. (Original project references are linked at the end of each section.)
 
 * 🔗 **Original Projects:**
@@ -133,9 +138,6 @@ Each day’s practical tasks have made these concepts concrete. By **day 7**, I 
 
 
 
-* 🔗 **Documentation:**
-
-  * [Documentation](https://mega.nz/file/WzJy1ZLD#2pJ6mQiEElLUnKCu-flPkcffPyC5ak58fCLaydw4Kjw) – Compiled Documentations from 7-Days-DevOps Project Series.
 
 
 
