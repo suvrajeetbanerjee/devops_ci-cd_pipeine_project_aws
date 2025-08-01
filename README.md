@@ -134,7 +134,7 @@ In this 7-day AWS DevOps challenge, I built a full end-to-end CI/CD pipeline for
 
 Each day’s practical tasks have made these concepts concrete. By **day 7**, I had a documented, working CI/CD pipeline. The original project guides were invaluable (see links above) for step-by-step instructions and best practices. This portfolio-style walk-through not only demonstrates the **steps performed** each day but also highlights my **learning outcomes**: a deep, practical grasp of AWS DevOps automation.
 
-**Sources:** Technical details and steps are based on the official challenge guides and community write-ups, which document the AWS services and procedures used at each stage of the 7-day challenge.
+<!-- **Sources:** Technical details and steps are based on the official challenge guides and community write-ups, which document the AWS services and procedures used at each stage of the 7-day challenge. -->
 
 
 
@@ -144,6 +144,16 @@ Each day’s practical tasks have made these concepts concrete. By **day 7**, I 
 
 
 
+---
+
+## 🙏 Acknowledgments
+This learning journey was powered & supported by NextWork's structured approach to cloud education, which made breaking down complex concepts into digestable-byte-sized-hands-on practice accessible through systematic skill building & clear-actionable steps.
+
+This write-up is based on - NextWork's - 7 Day DevOps Challenge!
+
+Give it a try: <https://learn.nextwork.org/projects/aws-devops-cicd>
+
+---
 
 
 
