@@ -8,7 +8,7 @@
   * [Documentation](https://mega.nz/file/WzJy1ZLD#2pJ6mQiEElLUnKCu-flPkcffPyC5ak58fCLaydw4Kjw) – Compiled Documentations from 7-Days-DevOps Project Series.
 
 In this 7-day AWS DevOps challenge, I built a full end-to-end CI/CD pipeline for a Java web application. Each day focused on a different step: from setting up the web app on EC2 to automating builds and deployments. Along the way I gained hands-on experience with AWS services (EC2, S3, IAM, CodeBuild, CodeDeploy, CodePipeline, CodeArtifact, etc.) and tools like VS Code, Git/GitHub, and Maven. The following sections walk through each day’s **steps performed** and **key learnings**. (Original project references are linked at the end of each section.)
-
+<!-- 
 * 🔗 **Original Projects:**
 
   * [Project 1: Set Up a Web App in the Cloud (Day 1)](https://learn.nextwork.org/projects/aws-devops-vscode?track=high) – Launch an EC2 instance and scaffold a Java web app.
@@ -17,6 +17,7 @@ In this 7-day AWS DevOps challenge, I built a full end-to-end CI/CD pipeline for
   * [Project 4: Continuous Integration with CodeBuild (Day 4)](https://learn.nextwork.org/projects/aws-devops-codebuild-updated?track=high) – Automate the build process with AWS CodeBuild.
   * [Project 5: Deploy a Web App with CodeDeploy (Day 5)](https://learn.nextwork.org/projects/aws-devops-codedeploy-updated?track=high) – Automate deployment to EC2 with CodeDeploy.
   * [Project 7: Build a CI/CD Pipeline with AWS CodePipeline (Day 7)](https://learn.nextwork.org/projects/aws-devops-codepipeline-updated?track=high) – Orchestrate the entire pipeline end-to-end.
+-->
 
 ## Day 1: Set Up a Web App in the Cloud with VSCode 🛠️
 
