@@ -1,6 +1,6 @@
 <!-- # devops ci-cd_pipeine_project_aws -->
 
-# 7-DevOps-Project Over 7 Days Upskilling 🚀
+# 🚀 7-DevOps-Project Over 7 Days Upskilling 
 
 
 * 🔗 **Documentation:**
