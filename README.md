@@ -6,6 +6,13 @@
 * 🔗 **Documentation:**
 
   * [Documentation](https://mega.nz/file/WzJy1ZLD#2pJ6mQiEElLUnKCu-flPkcffPyC5ak58fCLaydw4Kjw) – Compiled Documentations from 7-Days-DevOps Project Series.
+ 
+
+<!-- Blog Article – uncomment & replace when published 
+- **Blog:** ICON *7-Days DevOps Project Series - A HandsOn Practical Implementation Guide using AWS Native Solution*  
+  <https://dev.to/suvrajeet/mastering-aws-iam-how-to-control-ec2-access-like-a-pro-part-5-4gd0>
+-->
+
 
 In this 7-day AWS DevOps challenge, I built a full end-to-end CI/CD pipeline for a Java web application. Each day focused on a different step: from setting up the web app on EC2 to automating builds and deployments. Along the way I gained hands-on experience with AWS services (EC2, S3, IAM, CodeBuild, CodeDeploy, CodePipeline, CodeArtifact, etc.) and tools like VS Code, Git/GitHub, and Maven. The following sections walk through each day’s **steps performed** and **key learnings**. (Original project references are linked at the end of each section.)
 <!-- 
@@ -148,7 +155,7 @@ Each day’s practical tasks have made these concepts concrete. By **day 7**, I 
 ---
 
 ## 🙏 Acknowledgments
-This learning journey was powered & supported by NextWork's structured approach to cloud education, which made breaking down complex concepts into digestable-byte-sized-hands-on practice accessible through systematic skill building & clear-actionable steps.
+This learning journey was powered & supported by NextWork's structured approach to cloud education, which made breaking down complex concepts into digestable-byte-sized-hands-on practicals accessible through systematic skill building & clear-actionable steps.
 
 This write-up is based on - NextWork's - 7 Day DevOps Challenge!
 
